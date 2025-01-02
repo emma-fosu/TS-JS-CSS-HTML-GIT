@@ -1,0 +1,14 @@
+{
+  "name": "ts-js-css-html",
+  "version": "1.0.0",
+  "description": "\"Just play with any web-based APIs here\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emmanuel Fosu",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
