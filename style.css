@@ -1,5 +1,5 @@
 button {
-    padding: 10px;
+    padding-inline: 10px;
     background-color: yellow;
     font-weight: 600;
 }
