@@ -1,5 +1,10 @@
 button {
     padding-inline: 10px;
+    padding-block: 10px;
     background-color: yellow;
     font-weight: 600;
+}
+
+button:hover {
+    cursor: pointer;
 }
