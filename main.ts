@@ -1,7 +1,7 @@
 function print_to_console(): void {
     const norm_style = "color: white; backround-color: blue;";
     console.log(
-        "%cThis is the %cworld we %clive in %cright now",
+        "%cThis is the%c world we%c live in %cright now",
         norm_style,
         "color: red; background-color: green;",
         norm_style,
