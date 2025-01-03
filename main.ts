@@ -8,3 +8,7 @@ function print_to_console(): void {
         "color: blue; background-color: pink;"
     );
 }
+
+function alert_user() {
+    alert("Someone clicked on a button. Was that you?");
+}
